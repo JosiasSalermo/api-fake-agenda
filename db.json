@@ -1,0 +1,9 @@
+{
+  "agendamento":[
+    { "id":1, "dataVacinacao": "2023-09-15", "horaVacinacao": "08:00"},
+    { "id":1, "dataVacinacao": "2023-10-16", "horaVacinacao": "09:00"},
+    { "id":1, "dataVacinacao": "2023-11-17", "horaVacinacao": "10:00"},
+    { "id":1, "dataVacinacao": "2023-12-18", "horaVacinacao": "11:00"}
+    
+    ]
+}
