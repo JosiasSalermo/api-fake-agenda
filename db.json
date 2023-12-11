@@ -3,7 +3,7 @@
     { "id":1,"nome": "João", "dataVacinacao": "2023-09-15", "horaVacinacao": "08:00","nomeVacina": "Covid19"},
     { "id":2,"nome": "Fernando", "dataVacinacao": "2023-10-16", "horaVacinacao": "09:00","nomeVacina": "Covid19"},
     { "id":3,"nome": "Lucas", "dataVacinacao": "2023-11-17", "horaVacinacao": "10:00","nomeVacina": "Covid19"},
-    { "id":4,"nome": "Mateus","dataVacinacao": "2023-12-18", "horaVacinacao": "11:00","nomeVacina": "Covid19"}
+    { "id":4,"nome": "Mateus","dataVacinacao": "2023-12-18", "horaVacinacao": "11:00","nomeVacina": "Influenza A(H1N1)"}
     
     ]
 }
